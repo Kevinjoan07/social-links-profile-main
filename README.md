@@ -8,12 +8,12 @@ Thanks for checking out this front-end coding challenge.
 
 ## Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Kevinjoan07/social-links-profile-main)
+- Live Site URL: (https://social-links-profile-main-gilt.vercel.app/)
 
 ## Built with
 
-- Semantic HTML5 
+- Semantic HTML5
 - CSS(SASS) custom properties
 
 ## Author
